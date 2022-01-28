@@ -1,0 +1,4 @@
+- 👋 Hi, I’m @OKTB929
+- 👀 I’m interested in coding discord bots and anime
+- 🌱 I’m currently learning JavaScript
+- 📫 How to reach me: DM me on discord, OKTB#4293
